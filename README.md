@@ -23,3 +23,9 @@ make
 ```
 
 The executable will be produced in the ```bin``` folder.
+
+
+History
+-------
+
+The first playable version of this game was released on March 2010. The version on this github repository was updated to compile against SFML2 (the original version used SFML1), and to remove the dependency on the Frost game engine for utility classes and functions.
