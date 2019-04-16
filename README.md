@@ -7,7 +7,9 @@ Orb is a simple Chinese Checkers game you can play on your computer with a frien
 * A player can only move one orb during his/her turn.
 * Orbs can move by one step on the grid in any direction, including diagonally.
 * Two orbs cannot occupy the same location, however they can "jump" over nearby orbs (regardless of the nearby orb's color):
+
 ![Jumping orbs](jump.gif)
+
 
 Building
 --------
